@@ -1,2 +1,2 @@
 # MyNote
-Personal notes
+This is my personal notes
